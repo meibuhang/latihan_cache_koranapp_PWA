@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# my first progressive web app (by dicoding)
+# latihan pwa 2
 =======
 <p align="center">
   <a href="http://materializecss.com/">
